@@ -28,3 +28,32 @@ $ bunx --bun shadcn@2.3.0 add button
   - src/components/ui/button.tsx
 ```
 
+## 03 Customizing components
+
+```
+$ bunx --bun shadcn@2.3.0 add
+avatar
+badge
+button
+calendar
+card
+chart
+checkbox
+dialog
+drawer
+dropdown-menu
+form
+input
+label
+popover
+scroll-area
+select
+separator
+sheet
+skeleton
+sonner
+table
+tabs
+text-area
+```
+
