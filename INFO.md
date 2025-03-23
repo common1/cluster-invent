@@ -75,4 +75,7 @@ Current: 39:12
 
 Current: 1:07:02
 
+## 05 Creating auth screens - Part 2
+
+Current: 1:10:40
 
