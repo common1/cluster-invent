@@ -101,3 +101,15 @@ $ bun add hono
 
 Current: 1:48:13
 
+## 07 Creating auth API - Part 1
+
+```
+bun add @tanstack/react-query@5.59.0
+
+[https://tanstack.com/query/latest/docs/framework/react/guides/advanced-ssr#advanced-server-rendering]
+
+bun add @hono/zod-validator
+```
+
+Current: 1:48:11
+
