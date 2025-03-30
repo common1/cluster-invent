@@ -113,3 +113,32 @@ bun add @hono/zod-validator
 
 Current: 1:48:11
 
+## 07 Creating auth API - Part 1
+
+Current: 1:56:26
+
+## 07 Creating auth API - Part 2
+
+Current: 2:21:49
+
+## Setting up Appwrite & database - Part 1
+
+```
+Auth / SSR Login
+Server-SDK
+Node.js SDK 14.1.0
+$ bun add node-appwrite@14.1.0
+
+Admin client / generate an API key
+Integrate with your server / API key
+Name: jira-clone
+Auth / session.write users.write
+
+standard_a817a4d8637d1cc81f0979ed101623d8ebe7d7ee34e86e3f88a3627af8845a8b4968b7c33628975402ba1f7a54759c9641328c91349fca715ea11a7f02e5ad33cad5798043b64854d325f6787ef4a6b4b4d12a48d7a2d61448faf22a1507493544d86375027aa6124c2b7110b79c4476d13145c928019b0333a7ddf91f1c97bf
+
+Tutorial / Next.js SSR
+
+```
+
+Current: 2:28:04
+
