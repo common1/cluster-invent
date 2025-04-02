@@ -146,3 +146,7 @@ Current: 2:28:04
 
 Current: 2:30:47
 
+## Setting up Appwrite & database - Part 3
+
+Current: 2:33:17
+
