@@ -150,3 +150,11 @@ Current: 2:30:47
 
 Current: 2:33:17
 
+## Setting up Appwrite & database - Part 4
+
+```
+$ bun add server-only
+```
+
+Current: 2:51:10
+
