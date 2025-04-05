@@ -156,5 +156,9 @@ Current: 2:33:17
 $ bun add server-only
 ```
 
-Current: 2:51:10
+Current: 3:08:57
+
+## Setting up Appwrite & database - Part 5
+
+Current: 3:12:58
 
