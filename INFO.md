@@ -162,3 +162,12 @@ Current: 3:08:57
 
 Current: 3:12:58
 
+## Building a dashboard layout - Part 1
+
+```
+AUTH / SSR / Tutorials / Next SSR /OAuth authentication with SSR
+
+```
+
+Current: 3:29:49
+
